@@ -1,4 +1,4 @@
-alert("If it is Mobile Always keep in desktop mode and in landscape")
+alert("If it is Mobile Always keep in desktop mode")
 function digitalclock()
 {
     var date=new Date()
